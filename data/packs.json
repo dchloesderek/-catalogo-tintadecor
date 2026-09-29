@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pack-001",
+    "nombre": "Pack Iluminación LED Hogar",
+    "productos": ["960574", "960581", "960598", "960727"],
+    "imagen": "assets/pack-iluminacion.jpg"
+  },
+  {
+    "id": "pack-002",
+    "nombre": "Pack Impresoras y Consumibles",
+    "productos": ["IEP-603BK", "IEP-603C", "IEP-603M", "IEP-603Y", "THP-217/CRG047", "THP-226/CRG052", "THP-230A/CRG051A", "TBR-1050", "TBR-230BK", "DBR-1050"],
+    "imagen": "assets/pack-impresoras.jpg"
+  },
+  {
+    "id": "pack-003",
+    "nombre": "Pack Destornilladores Profesional",
+    "productos": ["10293/BS", "11735/BS", "12365/BS"],
+    "imagen": "assets/pack-destornilladores.jpg"
+  },
+  {
+    "id": "pack-004",
+    "nombre": "Pack Jardín y Riego",
+    "productos": ["000121", "000238", "1094/BS", "B10201WXL"],
+    "imagen": "assets/pack-jardin.jpg"
+  },
+  {
+    "id": "pack-005",
+    "nombre": "Pack Seguridad y Candados",
+    "productos": ["10176/BS", "10296/BS", "10704/BS", "10937/BS"],
+    "imagen": "assets/pack-seguridad.jpg"
+  },
+  {
+    "id": "pack-006",
+    "nombre": "Pack Cables y Conectores",
+    "productos": ["UPC-5004E-SOL/100", "PLUG3UP6/100", "10383/BS"],
+    "imagen": "assets/pack-cables.jpg"
+  }
+]
